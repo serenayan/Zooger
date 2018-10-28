@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - frog
+  - frog2
+  - fist1
+  - fist2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Frog
+  - Log
+  - Safe
+  - Frog2
+  - fist
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4096533747
+    locked: 0
+  - name: River
+    uniqueID: 1839235357
+    locked: 0
+  - name: Logs & Vehicles
+    uniqueID: 4274573299
+    locked: 0
+  - name: Frog
+    uniqueID: 1160249097
+    locked: 0

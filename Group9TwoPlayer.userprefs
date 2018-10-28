@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Zooger Scripts\ZOOFrog2Controller.cs">
+    <Files>
+      <File FileName="Assets\Zooger Scripts\ZOOFrogController.cs" Line="11" Column="25" />
+      <File FileName="Assets\Zooger Scripts\ZOOFrog2Controller.cs" Line="82" Column="5" />
+      <File FileName="Assets\Zooger Scripts\FistPunch.cs" Line="9" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

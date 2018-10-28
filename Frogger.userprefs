@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\RiverScript.cs">
+    <Files>
+      <File FileName="Assets\Scripts\FrogController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameController.cs" Line="1" Column="1" />
+      <File FileName="..\..\Documents\Lau_Ian_ilau_Tanks\ian_lau_tanks\Assets\Scripts\CameraControl.cs" Line="1" Column="1" />
+      <File FileName="..\..\Documents\Lau_Ian_ilau_Tanks\ian_lau_tanks\Assets\Prefabs\ShellExplosion.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\VehiclesGoingLeft.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\VehiclesGoingRight.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LogScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RiverScript.cs" Line="19" Column="3" />
+      <File FileName="Assets\Scripts\VehicleController.cs" Line="20" Column="96" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
